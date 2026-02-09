@@ -11,17 +11,17 @@ Find out more at [openrefill.com](https://openrefill.com) and dive deeper with o
 ## Getting started
 1. Read the [licence](LICENCE.md) and understand your freedoms and responsibilities (link to website section)
 2. Read our [code of conduct](CODE_OF_CONDUCT.md) and our [contribution guidelines](CONTRIBUTING.md).
-3. Check out our [discussions page](discussions). Feel free to introduce yourself in [Welcome to OpenRefill Discussions!](discussions/1).
+3. Check out our [discussions page](https://github.com/OpenRefill/OpenRefill/discussions). Feel free to introduce yourself in [Welcome to OpenRefill Discussions!](https://github.com/OpenRefill/OpenRefill/discussions/1#discussion-9450050).
 
 
 ## Need help? 
 - FAQs _(link to website FAQs)_
-- [Q&As](discussions/categories/q-a)
+- [Q&As](https://github.com/OpenRefill/OpenRefill/discussions/categories/q-a)
 - Email us at hello@openrefill.com.
 
 
 ## Follow Us
-LinkedIn
+[LinkedIn](https://www.linkedin.com/company/open-refill/?viewAsMember=true)
 Youtube link _(link to channel)_
 
 #openrefill
